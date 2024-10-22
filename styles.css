@@ -58,7 +58,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 2px 2px 2px 2px;
+    margin: 2px 2px 2px ;
     height: 18vmin;
     width: 18vmin;
     border-radius: 1rem;
@@ -79,10 +79,9 @@ flex-wrap: wrap;
 }
 #rst-btn{
     background-color: #EDAE49;
-    height: 7vmin;
+    height: 8vmin;
     border-radius: 10px;
     width: 30vmin;
-    margin-top: 10px;
 }
 #new-btn{
     background-color:#EA2B1F;
